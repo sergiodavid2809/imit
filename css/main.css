@@ -157,11 +157,11 @@ div,li {
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
-  padding: 10px;
+  padding: 20px;
 }
 .coffee_menu_content {
   width: 80%;
-  padding: 10px;
+  padding: 20px;
 }
 /** ACCESSS **/
 .info {
